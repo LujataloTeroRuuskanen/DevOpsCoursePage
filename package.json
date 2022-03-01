@@ -104,6 +104,7 @@
   "scripts": {
     "build": "gatsby build",
     "develop": "gatsby develop",
+    "start": "node index.js",
     "serve": "gatsby serve",
     "format": "prettier --write 'src/**/*.js'",
     "prettier-check": "prettier  --list-different 'src/**/*.js'",
