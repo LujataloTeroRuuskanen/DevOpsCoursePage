@@ -1,1 +1,1 @@
-web: serve -l $PORT /usr/src/html
+web: gatsby serve -l $PORT /usr/src/html
