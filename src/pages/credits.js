@@ -14,7 +14,7 @@ const Credits = () => (
         Course material has been done by{" "}
         <a href="https://github.com/jakousa">Jami Kousa</a> with the help of
         University of Helsinki's Tietojenkäsittelytieteen osaston
-        sovelluskehitysakatemia (Toska) and{" "}
+        sovelluskehitysakatemia (Toska 2222) and{" "}
         <a href="https://github.com/docker-hy/docker-hy.github.io/graphs/contributors">
           numerous course attendees
         </a>
