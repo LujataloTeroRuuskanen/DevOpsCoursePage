@@ -104,7 +104,6 @@
   "scripts": {
     "build": "gatsby build",
     "develop": "gatsby develop",
-    "start": "gatsby serve -port 80 /usr/src/html",
     "serve": "gatsby serve",
     "format": "prettier --write 'src/**/*.js'",
     "prettier-check": "prettier  --list-different 'src/**/*.js'",
